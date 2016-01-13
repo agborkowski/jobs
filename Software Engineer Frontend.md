@@ -56,7 +56,7 @@ HolidayCheck is part of [TOMORROW FOCUS AG](http://www.tomorrow-focus.com/). We 
 </sub>
 
 ## Candidate
-#### [AgBorkowski](mailto:andrzejborkowski@gmail.com)
-[1] [in](https://linkedin.com/in/agborkowski)
-[2] [blog, portfolio](http://blog.aeonmedia.eu)
-[4] [github](https://github.com/agborkowski)
+[AgBorkowski](mailto:andrzejborkowski@gmail.com)
+- [in](https://linkedin.com/in/agborkowski)
+- [blog, portfolio](http://blog.aeonmedia.eu)
+- [github](https://github.com/agborkowski)
