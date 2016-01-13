@@ -54,3 +54,9 @@ HolidayCheck is part of [TOMORROW FOCUS AG](http://www.tomorrow-focus.com/). We 
 [1] Munich only<br/>
 [2] Bottighofen only
 </sub>
+
+## Candidate
+#### [AgBorkowski](mailto:andrzejborkowski@gmail.com)
+[1] [in](https://linkedin.com/in/agborkowski)
+[2] [blog, portfolio](http://blog.aeonmedia.eu)
+[4] [github](https://github.com/agborkowski)
